@@ -1,2 +1,1 @@
-# City-Holder-Auto-Clicker
-City-Holder-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
